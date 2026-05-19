@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/madha/Downloads/instagramusers/mlruns/1/models/m-9c8e1c2af8ee4041a6164d334b0a4e39/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-9c8e1c2af8ee4041a6164d334b0a4e39
+model_size_bytes: 11167
+model_uuid: m-9c8e1c2af8ee4041a6164d334b0a4e39
+prompts: null
+run_id: 377ef813878b44d785a0da1124bd8947
+utc_time_created: '2026-05-19 16:32:31.467578'
