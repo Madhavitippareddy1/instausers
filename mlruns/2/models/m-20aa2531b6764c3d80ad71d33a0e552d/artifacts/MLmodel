@@ -1,0 +1,15 @@
+artifact_path: file:///c:/Users/madha/Downloads/instagramusers/mlruns/2/models/m-20aa2531b6764c3d80ad71d33a0e552d/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-20aa2531b6764c3d80ad71d33a0e552d
+model_size_bytes: 81608
+model_uuid: m-20aa2531b6764c3d80ad71d33a0e552d
+prompts: null
+run_id: 8cf39d11af23416196261d6a4bfc2595
+utc_time_created: '2026-05-20 10:29:47.668431'
